@@ -1,0 +1,6 @@
+*~
+EBOOT.PBP
+*.o
+outpatch
+out
+sound.map
